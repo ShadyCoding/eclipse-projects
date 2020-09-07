@@ -1,0 +1,30 @@
+package zoo;
+
+public class Aminal {
+	String name, speak;
+	double weight;
+	int age;
+		
+	public Aminal(String name, String speak, double weight, int age) {
+		super();
+		this.name = name;
+		this.speak = speak;
+		this.weight = weight;
+		this.age = age;
+	}
+
+	public void speak() {
+		System.out.println("animal is "+name);
+		System.out.println("speaking way is "+speak);
+		System.out.println("weight is "+weight);
+		System.out.println("age is "+age);
+	}
+	
+	public void sleep() {
+		System.out.println("sleeping...");
+	}
+	
+	public void eat() {
+		System.out.println("eating...");
+	}
+}

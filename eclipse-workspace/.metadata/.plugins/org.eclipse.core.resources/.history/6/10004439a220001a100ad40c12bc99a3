@@ -1,0 +1,12 @@
+package zoo;
+
+public class Zoo {
+
+	public static void main(String[] args) {
+		Aminal cat = new Aminal("cat","meow meow", 5, 2);
+		cat.speak();
+		Aminal dog = new Aminal("german shephard", "barking", 5, 4);
+		dog.speak();
+	}
+
+}
