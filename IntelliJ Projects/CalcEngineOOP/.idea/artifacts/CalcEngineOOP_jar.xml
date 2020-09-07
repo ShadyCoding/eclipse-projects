@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalcEngineOOP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalcEngineOOP_jar</output-path>
+    <root id="archive" name="CalcEngineOOP.jar">
+      <element id="module-output" name="CalcEngineOOP" />
+    </root>
+  </artifact>
+</component>

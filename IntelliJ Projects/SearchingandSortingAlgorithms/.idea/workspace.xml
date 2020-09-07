@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c1e5a3-2536-4acc-942c-40fa1d5d8d58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XDFBiiYCYta0KtgMhuKBQTU9o9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTables.App" />
+      <module name="SearchingandSortingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashTables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort.App" />
+      <module name="SearchingandSortingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MergeSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort.BubbleSort" />
+      <module name="SearchingandSortingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort.InsertionSort" />
+      <module name="SearchingandSortingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InsertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort" />
+      <module name="SearchingandSortingAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c1e5a3-2536-4acc-942c-40fa1d5d8d58" name="Default Changelist" comment="" />
+      <created>1580572624029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580572624029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1581353844827">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1581353844827" />
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1581357671918">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581357671918" />
+    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1581357671917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581357671917" />
+    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1581357671917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581357671917" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1581357671917">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581357671917" />
+    <state x="390" y="140" width="586" height="488" key="find.popup" timestamp="1580659491757">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="140" width="586" height="488" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1580659491757" />
+  </component>
+</project>
